@@ -69,7 +69,9 @@
 TG_TOKEN=твой_telegram_token
 OPENROUTER_KEY=твой_openrouter_key
 
+---
 
-### Разрешённые чаты и логин бота в Code.gs
+### 4️⃣ Разрешённые чаты и логин бота в Code.gs
 const ALLOWED_CHAT_IDS = [IDGROUP];
 const BOT_USERNAME = '@username';
+
